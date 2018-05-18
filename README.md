@@ -1,9 +1,5 @@
----
-description: 'A Pythonic approach to learning how to hack: Metasploit(able2)'
----
-
 # nAZklX's Metasploit\(able2\) Tutorial
-
+A Pythonic approach to learning how to hack: Metasploit(able2)
 ## How to hack 'Pythonically'
 
 > "To be Pythonic is to use the Python constructs and datastructures with clean, readable idioms"
@@ -18,11 +14,10 @@ While Pythonic thinking is rooted in the Python language, I believe that its bas
 
 As I've gone through tutorials of various concepts myself, it's hard to find something intelligible, portable, and most importantly: _free and accessible_. 
 
-{% hint style="info" %}
+
 If you have questions Tweet or DM me @nAZklX on Twitter
 
 To download this guide- and any other, for that matter- you can use the below command with Git.
-{% endhint %}
 
 ```text
 git clone https://nazklx.gitbook.io/nazsploit-tutorial.git
